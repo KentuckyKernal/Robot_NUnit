@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c91b1b52-52b4-4554-8083-c839dc9e9527": {
+      "ProjectGuid": "c91b1b52-52b4-4554-8083-c839dc9e9527",
+      "DisplayName": "Robot",
+      "ColorIndex": 0
+    },
+    "2bb48c83-55eb-4f1a-bc68-c602d26b444c": {
+      "ProjectGuid": "2bb48c83-55eb-4f1a-bc68-c602d26b444c",
+      "DisplayName": "TestingRob",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
